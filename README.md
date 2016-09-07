@@ -11,7 +11,7 @@
 * 移动化：手机检测与操控
 
 **开发板选择：**
-* [ ] Arduino
+* [x] Arduino
 * [ ] 树莓派
 * [ ] Webduino
 * [ ] Tessel

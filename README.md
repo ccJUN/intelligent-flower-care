@@ -11,7 +11,7 @@
 * 移动化：手机检测与操控
 
 **开发板选择：**
-* [x] Arduino
+* [x] Arduino（搭配 [johnny-five](https://github.com/rwaldron/johnny-five/) 进行 Node.js 开发）
 * [ ] 树莓派
 * [ ] Webduino
 * [ ] Tessel

@@ -6,7 +6,7 @@
 
 **预期特性：**
 
-* 检测：水分、湿度、光照、肥料（造轮子）
+* 检测：温度、[湿度](https://detail.tmall.com/item.htm?spm=a230r.1.14.6.sy6vH0&id=45080739347&cm_id=140105335569ed55e27b&abbucket=14)、[光照](https://item.taobao.com/item.htm?spm=a230r.1.14.34.BJ38Np&id=44653268400&ns=1&abbucket=14#detail)、<del>肥料</del>
 * 自动化：浇水（定时定量）
 * 移动化：手机检测与操控
 

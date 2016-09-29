@@ -40,5 +40,36 @@
 * 502 胶水：￥3.9
 * 焊接 I2C 转接板：￥14.8
 * USB 转 DC：￥3
+*电磁阀 12v  ￥9.5 / 水泵 ￥40(二选一)
+*继电器   ￥15
 
----- 总计：￥117.1 ----
+
+---- 总计：￥141.6 ----
+
+** 1期讨论方案所需工具**
+
+*水泵
+https://detail.tmall.com/item.htm?spm=a230r.1.14.6.zuXm1u&id=528846930196&cm_id=140105335569ed55e27b&abbucket=6
+
+*电磁阀
+https://item.taobao.com/item.htm?spm=a230r.1.14.20.bDknGD&id=45271613910&ns=1&abbucket=6#detail
+
+*继电池
+https://detail.tmall.com/item.htm?spm=a230r.1.14.6.Wyc2YX&id=41539011204&cm_id=140105335569ed55e27b&abbucket=6
+
+*摄像头
+https://item.taobao.com/item.htm?spm=a230r.1.14.168.YL6UQD&id=15852059858&ns=1&abbucket=6#detail
+
+** 1期讨论方案所需工作量**
+
+1.浇水模块
+2.wifi获取消息和展示
+3.水量和湿度的关系
+4.光源和温度的关系
+
+** 后续工作量 **
+1.多盆栽处理的方式
+2.摄像头观察生长情况
+3.整个体积的优化
+
+
